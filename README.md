@@ -11,7 +11,7 @@
 
 <!-- 🔹 Coding GIF -->
 <p align="center">
-  <img src="https://github.com/Pranto78/Pranto78/blob/main/pictue1.gif" height="220" alt="coding gif"/>
+  <img src="https://github.com/Ridwan87411/Ridwan87411/blob/main/One day I'm going to catch my cat doing this.gif" height="220" alt="coding gif"/>
 </p>
 
 <p align="center"> 
