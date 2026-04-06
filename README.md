@@ -188,5 +188,3 @@ const ridwan = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130§ion=footer"/>
 
 </div>
-src="https://komarev.com/ghpvc/?username=ridwan87411&color=0072ff&style=flat-square" alt="Profile Views" />
-</p>
