@@ -95,9 +95,8 @@
 ---
 
 ### 🐍 Contribution Snake Animation  
-![snake gif](https://github.com/Ridwan87411/Ridwan87411/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Ridwan87411/Ridwan87411/output/github-snake-dark.svg)
 
----
 
 ### 🎯 Fun Quote
 > “Code, Create, Improve — Repeat.”
