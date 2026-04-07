@@ -102,23 +102,4 @@
 
 ---
 
-### 🌐 Social Media  
 
-<p align="center">
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/ridwan.jamal.sadib/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="45" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ridwan-jamal-sadib" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Ridwan87411" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" height="45" />
-  </a>
-
-</p>
