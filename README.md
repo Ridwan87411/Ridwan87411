@@ -87,13 +87,10 @@
 ---
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridwan87411&show_icons=true&theme=tokyonight" alt="Ridwan87411 GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ridwan87411&theme=tokyonight" />
   <br/><br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan87411&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridwan87411&theme=tokyo-night" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake Animation  
