@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://github.com/Ridwan87411/Ridwan87411/blob/main/download.gif" width="100%" alt="banner" />
+  <img src="https://github.com/Ridwan87411/Ridwan87411/blob/main/Work_Life Cycle.gif" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">
